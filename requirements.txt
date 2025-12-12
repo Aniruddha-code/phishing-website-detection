@@ -1,10 +1,9 @@
 numpy
 pandas
-scikit-learn
 matplotlib
 seaborn
-scikit-learn
 scipy
+scikit-learn
 xgboost
 statsmodels
 imbalanced-learn
